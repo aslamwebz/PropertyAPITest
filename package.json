@@ -1,0 +1,20 @@
+{
+  "name": "propertytest",
+  "version": "1.0.0",
+  "description": "This is a simple PHP oop application created for the test purpose;",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Aslam_EM@bitbucket.org/Aslam_EM/test-project-junior-developer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/Aslam_EM/test-project-junior-developer#readme",
+  "dependencies": {
+
+  }
+}

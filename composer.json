@@ -1,0 +1,12 @@
+{
+
+    "autoload": {
+        "psr-4": {
+            "Config\\": "Config/",
+            "App\\": "Src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
